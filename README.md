@@ -1,10 +1,10 @@
-# Friday hacks 145: Code Golf
+# Friday Hacks 145: Code Golf (Nov 17)
 
 ## Rules
 1. You may use any language.
-2. Each submission is expected to be a complete program that reads from standard input and writes to standard output
-3. Your output has to match the expected output exactly, with the exception of trailing whitespaces
-4. Programs may terminate with error as long as error messages are not written to standard ouput
+2. Each submission is expected to be a complete program that reads from standard input and writes to standard output.
+3. Your output has to match the expected output exactly, with the exception of trailing whitespaces.
+4. Programs may terminate with error, as long as error messages are not written to standard output.
 
 ## Testing your submissions
 
@@ -14,4 +14,4 @@ To verify your output, you may diff it against the sample output.
 
 E.g. `diff <(python test.py < 1.in) 1.out`
 
-Note that for the problems 1 and 3, your program is expected to process the test cases in every line.
+Note that for the problems 1 and 3, your program is expected to process the test cases in every line, one by one.
