@@ -14,4 +14,4 @@ To verify your output, you may diff it against the sample output.
 
 E.g. `diff <(python test.py < 1.in) 1.out`
 
-Note that for the problems 1 and 3, your program is expected to process the test cases in every line, one by one.
+Note that for problems 1 and 3, your program is expected to process the test cases in every line, one by one.
