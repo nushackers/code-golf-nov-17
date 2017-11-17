@@ -1,3 +1,4 @@
+while true do
 n=gets.to_i
 puts n.to_s + case n%100
                 when 11,12,13 then 'th'
@@ -9,3 +10,4 @@ puts n.to_s + case n%100
                     else 'th'
                   end
               end
+end
