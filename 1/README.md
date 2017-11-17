@@ -2,6 +2,8 @@
 
 Each line of input contains 9 different digits. Print the missing digit in each line.
 
+(Source: http://golf.shinh.org/p.rb?Missing+Digit)
+
 ## Sample input
 
 ```
