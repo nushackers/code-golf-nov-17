@@ -1,2 +1,2 @@
 n=input()
-print `n`+'trn?shdd?t'[((n/10)%10!=1)*(4>>(n-1)%10)::5]
+print`n`+'trsnhdtd'[12>>n%10*(n/10%10!=1)&3::4]
